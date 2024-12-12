@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjana Yadav</h1>
-<h3 align="center">A Passionate Software Engineer from Nepal</h3>
+<h3 align="center">A Passionate Web Developer from Nepal</h3>
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="Coding" width="600"/>
