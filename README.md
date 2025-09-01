@@ -15,10 +15,8 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 I’m currently working on **full-stack projects using React, Next.js & Django**
-- 🌱 I’m currently learning **Next.js & advanced TypeScript**
-- 💬 Ask me about **React, Django, REST APIs, and CSS Magic**
-- 📫 Reach me at: **ysanjana637@gmail.com**
+- 🔭 I’m currently working on **frontend projects using React, Next.js & Typescript**
+- 🌱 I’m currently learning **Node.js & advanced Mongodb**
 
 ---
 
@@ -59,18 +57,23 @@
 ## 🎯 Goals
 
 - ✅ Contribute to meaningful open-source projects
-- 🔜 Build a personal portfolio with Next.js
-- 📚 Master backend with Django REST & PostgreSQL
+- 📚 Master backend with Node.js & Mongodb
 - 🚀 Start blogging technical content on Dev.to or Hashnode
 
 ---
+## 🏆 Achievements  
+ 
+- 💼 Web Developer Intern at **SRIYOG Consulting** (Kathmandu)  
+- 🏅 Participant in **Janakpur Hackathon**  
 
-## 📣 Quote of the Day
+---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+## 📣 Favorite Quote  
+
+> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*  
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&width=500&lines=Thanks+for+visiting!+❤️;Happy+Coding!+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&width=500&lines=Thanks+for+visiting!+❤️;Happy+Coding!+🚀;Let's+build+something+awesome+🔥" />
 </div>
